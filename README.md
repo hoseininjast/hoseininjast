@@ -17,8 +17,8 @@
      <a href="https://x.com/Hosein_in_jast">
       <img src="https://img.shields.io/badge/-HoseinInJast-skyblue?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
     </a>
-    <a href="https://hoseininjast.com">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fhoseininjast.com" height="25" alt="website">
+    <a href="https://hoseinfordev.pro">
+        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fhoseinfordev.pro" height="25" alt="website">
     </a>
   </div>  
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=hoseininjast&label=Profile%20Visits&style=for-the-badge" />
