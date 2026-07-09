@@ -1,7 +1,19 @@
 <div align="center">
   <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hoseininjast/hoseininjast/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hoseininjast/hoseininjast/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/hoseininjast/hoseininjast/output/github-contribution-grid-snake.svg"
+  />
+</picture>
   </div>
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
